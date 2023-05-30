@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Summer 2021: Algorithm Research Engineer
+* Summer 2021: Algorithm Research Engineer Internship
   * Tencent Technology
   * Worked on post-process optimization of the skinning performance for characters in games such as PUBG
 
