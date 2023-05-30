@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, the Chinese University of Hong Kong, Shenzhen (CUHKSZ), 2017-2021
+* B.E. in Computer Science, the Chinese University of Hong Kong, Shenzhen (CUHKSZ), 2017-2021
 * M.S. in Computer and Information Science, University of Pennsylvania, 2021-2023
 
 Work experience
