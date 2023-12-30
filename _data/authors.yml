@@ -1,18 +1,18 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name        : "Siva Kailas"
+  uri         : "https://skailas.github.io/"
+  email       : "siva.kailas10@gmail.com"
+  bio         : "My name is Siva Kailas and I am a Robotics PhD student at Georgia Institute of Technology, co-advised under Prof. Harish Ravichandar and Prof. Dhruv Batra. My research focus at Georgia Tech is about generalizability in multi-agent embodied learning. I received the NSF Graduate Research Fellowship in 2023. Before coming to Georgia Tech, I received my M.S. in Robotics from Carnegie Mellon University Robotics Institute (School of Computer Science) in 2023. I received my B.S. in Computer Science from Arizona State University (School of Computing, Informatics, and Decision Systems Engineering) in 2020. I worked at Amazon.com Incorporated as a Software Development Engineer from 2020 - 2021."
+  avatar      : "siva-kailas.png"
+  twitter     : "SivaKailas10"
+  # google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# Name2 Name2:
+#   name        : "Name2 Name2"
+#   email       : "name2@name2.com"
+#   bio         : "I ordered what?"
+#   avatar      : "bio-photo.jpg"
+#   twitter     : "name2"
+#   google_plus : "Name"
