@@ -12,7 +12,7 @@ My name is Siva Kailas and I am a Robotics Ph.D. student at Georgia Institute of
 
 # Publications #
 
-You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+For additional information, you can find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.
 
 * Kailas, Siva, Wenhao Luo, and Katia Sycara. 2023. “Multi-Robot Adaptive
 Sampling for Supervised Spatiotemporal Forecasting.” In *EPIA Conference
@@ -80,6 +80,7 @@ As a teaching assistant, I have assisted students in computer science and electr
   * January 2020 - May 2020: Artificial Intelligence (CSE 471, Prof. Stephanie Gil)
 
 # Recent News #
+For most of these, you can find additional details about each of these (and information about older events) in my <a href="/files/Siva_Kailas_2023_CV_Resume.pdf">CV/Resume</a>.
 * [August 2023] I joined the PhD Robotics program at Georgia Institute of Technology and have joined the Structured Techniques for Algorithmic Robotics Lab with Prof. Harish Ravichandar as my advisor and co-advised by Prof. Dhruv Batra from Meta FAIR Lab.
 * [July 2023] I defended my thesis with Prof. Katia Sycara, Prof. George Kantor, and Yi Sha as my committee and completed my MS in Robotics from Carnegie Mellon University.
 * [May 2023] I received three PhD admissions (PhD Robotics from Georgia Institute of Technology, PhD Computer Science from Harvard University, and PhD Robotics from Carnegie Mellon University).
@@ -93,5 +94,5 @@ As a teaching assistant, I have assisted students in computer science and electr
 * [August 2019] I completed my internship as a Software Development Engineer Intern at Amazon.com Incorporated and received a return offer for a full-time position as a Software Development Engineer.
 * [June 2019] I started as an Software Development Engineer Intern at Amazon.com Incorporated.
 * [May 2019] I started as a research assistant at the Robotics, Embedded Autonomy & Communication Theory Lab at Arizona State University with Prof. Stephanie Gil as my advisor.
-* [April 2019] I received two SDE internship offers (Amazon.com Incorporated and Barclays)
+* [April 2019] I received two SDE internship offers (Amazon.com Incorporated and Barclays).
 * [August 2018] I started as a research assistant at the Interactive Robotics Lab at Arizona State University with Prof. Heni Ben Amor my advisor and co-advised by Dr. Renaud Detry from NASA Jet Propulsion Lab.
