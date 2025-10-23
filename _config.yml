@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiazhen Liu 刘家祯"
+title                    : "Jiazhen Liu"
 title_separator          : "-"
 name                     : &name "Jiazhen Liu"
 description              : &description "My name is Jiazhen, a Robotics PhD student at Georgia Tech"

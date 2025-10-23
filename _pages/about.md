@@ -12,17 +12,19 @@ Hello! I'm Jiazhen Liu, a third-year Robotics Ph.D. student at Georgia Tech. I a
 
 # Publications #
 
-For additional information, you can find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>. * denotes equal contributions. 
+For additional information, you can find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>. 
+
+\* denotes equal contributions. 
 
 * Jain, Shalin Anand, Jiazhen Liu, Siva Kailas, and Harish Ravichandar. 2025. "JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes." In Conference on Robot Learning (CoRL) 2025.
 
-* Neville, Glen*, Jiazhen Liu*, Sonia Chernova, and Harish Ravichandar. 2024. "Q-ITAGS: Quality-Optimized Spatio-Temporal Heterogeneous Task Allocation with a Time Budget." In International Symposium of Robotics Research (ISRR) 2024. 
+* Neville, Glen\*, Jiazhen Liu\*, Sonia Chernova, and Harish Ravichandar. 2024. "Q-ITAGS: Quality-Optimized Spatio-Temporal Heterogeneous Task Allocation with a Time Budget." In International Symposium of Robotics Research (ISRR) 2024. 
 
-* Liu, Jiazhen*, Peihan Li*, Yuwei Wu, Gaurav S. Sukhatme, Vijay Kumar, and Lifeng Zhou. 2024. "Multi-robot target tracking with sensing and communication danger zones." In International Symposium on Distributed Autonomous Robotic Systems (DARS) 2024, Best Paper Nomination. 
+* Liu, Jiazhen\*, Peihan Li\*, Yuwei Wu, Gaurav S. Sukhatme, Vijay Kumar, and Lifeng Zhou. 2024. "Multi-robot target tracking with sensing and communication danger zones." In International Symposium on Distributed Autonomous Robotic Systems (DARS) 2024, **Best Paper Nomination**. 
 
 * Liu, Jiazhen, Lifeng Zhou, Ragesh Ramachandran, Gaurav S. Sukhatme, and Vijay Kumar. 2022. "Decentralized risk-aware tracking of multiple targets." In International Symposium on Distributed Autonomous Robotic Systems, pp. 408-423. Cham: Springer Nature Switzerland, 2022.
 
-* Zahroof, Rahul*, Jiazhen Liu*, Lifeng Zhou, and Vijay Kumar. 2022. "Multi-robot localization and target tracking with connectivity maintenance and collision avoidance." In American Control Conference (ACC) 2022.
+* Zahroof, Rahul\*, Jiazhen Liu\*, Lifeng Zhou, and Vijay Kumar. 2022. "Multi-robot localization and target tracking with connectivity maintenance and collision avoidance." In American Control Conference (ACC) 2022.
 
 # Teaching #
 * Graduate Teaching Assistant at Georgia Tech
