@@ -14,8 +14,8 @@ main:
   - title: "Teaching"
     url: /#teaching
   
-  - title: "Recent News"
-    url: /#recent-news
+  # - title: "Recent News"
+  #   url: /#recent-news
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV/Resume"
-    url: /files/Siva_Kailas_10_2025_CV_Resume.pdf
+    url: /files/Jiazhen_Liu_CV-Oct-2025.pdf
     
   # - title: "Guide"
   #   url: /markdown/
