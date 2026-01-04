@@ -20,7 +20,7 @@ For additional information, you can find my articles on my <a href="{{site.autho
 
 * Jain, Shalin Anand, Jiazhen Liu, Siva Kailas, and Harish Ravichandar. 2025. "JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes." In Conference on Robot Learning (CoRL) 2025.
 
-* Jiazhen Liu\*, Neville, Glen\*, Sonia Chernova, and Harish Ravichandar. 2024. "Q-ITAGS: Quality-Optimized Spatio-Temporal Heterogeneous Task Allocation with a Time Budget." In International Symposium of Robotics Research (ISRR) 2024. 
+* Liu, Jiazhen\*, Glen Neville\*, Sonia Chernova, and Harish Ravichandar. 2024. "Q-ITAGS: Quality-Optimized Spatio-Temporal Heterogeneous Task Allocation with a Time Budget." In International Symposium of Robotics Research (ISRR) 2024. 
 
 * Liu, Jiazhen\*, Peihan Li\*, Yuwei Wu, Gaurav S. Sukhatme, Vijay Kumar, and Lifeng Zhou. 2024. "Multi-robot target tracking with sensing and communication danger zones." In International Symposium on Distributed Autonomous Robotic Systems (DARS) 2024, **Best Paper Nomination**. 
 
