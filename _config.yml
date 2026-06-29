@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiazhen Liu"
-  avatar           : "jiazhen-liu.png"
+  avatar           : "jiazhen-2026.png"
   bio              : "Ph.D. in Robotics (GaTech), M.S. in CS (UPenn), B.E. in CS (CUHKSZ)"
   location         : "Atlanta, GA"
   employer         :
@@ -94,13 +94,10 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  # facebook         : "siva.kailas"
   foursquare       :
   github           : "vickyliuliu"
   google_plus      :
   keybase          :
-  # instagram        : "sivakailas/"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jiazhen-liu-8893a6304"
   # orcid            : "https://orcid.org/0000-0002-9247-8882"
@@ -109,7 +106,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  # twitter          : "SivaKailas10"
   vine             :
   weibo            :
   xing             :
