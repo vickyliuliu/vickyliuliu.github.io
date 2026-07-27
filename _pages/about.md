@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 # About Me #
-Hello! I'm Jiazhen Liu, a third-year Robotics Ph.D. student at Georgia Tech. I am honored to work with Prof. Harish Ravichandar. My research interests lie in multi-robot task and motion planning and its application in real world. Before joining Georgia Tech, I received my M.S. from University of Pennsylvania and B.E. from the Chinese University of Hong Kong, Shenzhen, both majoring in Computer Science. 
+Hello! I'm Jiazhen Liu, a third-year Robotics Ph.D. student at Georgia Tech. I am honored to work with Prof. Harish Ravichandar. My research interests lie in multi-robot task and motion planning and its application in the real world. Before joining Georgia Tech, I received my M.S. from the University of Pennsylvania and B.E. from the Chinese University of Hong Kong, Shenzhen, both majoring in Computer Science.
+
+<div class="research-tags" aria-label="Research areas">
+  <span>Multi-robot systems</span>
+  <span>Task &amp; motion planning</span>
+  <span>Learning for robotics</span>
+</div>
 
 I am an amateur artist in my free time, specializing in watercolor. You can find some samples of my paintings <a href="https://vickyliuliu.github.io/files/art_samples.pdf">here</a>.
 
